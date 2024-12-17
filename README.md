@@ -14,6 +14,10 @@
 
 ![DATAKOSONG](https://github.com/user-attachments/assets/8ebaf66d-bdc9-44bf-9a38-2f43ef00553b)
 
+<h2>DAFTAR MAHASISWA</h2>
+
+![daftar-mhs](https://github.com/user-attachments/assets/8f0808fc-c50f-4877-af02-534e84818072)
+
 <h2>DETAIL MAHASISWA</h2>
 
 ![detailmhs](https://github.com/user-attachments/assets/f93ee4f3-0411-42b9-b382-2c2272feb471)
